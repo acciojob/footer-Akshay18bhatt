@@ -1,1 +1,44 @@
 /* your code here */
+.content{
+	background-color:black;
+	color:white;
+}
+.top{
+	padding:10px;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	margin:auto;
+}
+.media-icons>a{
+	padding-inline:5px;
+}
+.link-boxes{
+	padding:40px;
+	display:flex;
+	justify-content:space-evenly
+}
+.link-boxes>div{
+	display:flex;
+	flex-direction:column;
+	align-items:left;
+}
+.link-boxes h3{
+	text-decoration:underline;
+}
+.link-boxes a{
+	text-decoration:none;
+	color:gray;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding:5px;
+	background-color:gray;
+	color:white;
+}
+
+
