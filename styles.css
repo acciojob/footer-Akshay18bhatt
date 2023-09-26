@@ -12,8 +12,9 @@
 	align-items:center;
 	margin:auto;
 }
-.media-icons>a{
-	padding-inline:5px;
+.media-icons ul{
+	display:flex;
+	list-style-type:none;
 }
 .link-boxes{
 	padding:40px;
@@ -37,7 +38,7 @@
 	justify-content:space-between;
 	align-items:center;
 	padding:5px;
-	background-color:gray;
+	background-color:#181818;
 	color:white;
 }
 
