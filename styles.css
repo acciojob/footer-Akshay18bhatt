@@ -12,10 +12,10 @@
 	align-items:center;
 	margin:auto;
 }
-.media-icons ul{
+/* .media-icons ul{
 	display:flex;
 	list-style-type:none;
-}
+} */
 .link-boxes{
 	padding:40px;
 	display:flex;
